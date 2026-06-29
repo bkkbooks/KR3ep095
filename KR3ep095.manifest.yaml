@@ -1,0 +1,547 @@
+canonical_identifier: bkk:krp/KR3ep095/v1
+canonical_location: https://kanripo.org/bkk/KR3ep095/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 延陵弟子紀要
+  identifiers:
+    krp: KR3ep095
+  tags:
+    kr-categories: KR3ep
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ep095.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3ep095_000.yaml, hash: 'sha256:fd64458e8e2d52143674e6b866a8d439248e35ad7feb8968eb67545e5f98d616'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ep095_000.markers.yaml, hash: 'sha256:d6edcb976cf4753b3de5e3f7170fccd3d84cc2527f771fed7f06d1eb7c08bf5e'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ep095_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 143
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep095_jc_000-d3.h1s1
+    span:
+    - body
+    - 0
+    - 10882
+  label: 桐涇橋孫
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep095_jc_000-d3d6
+    span:
+    - body
+    - 167
+    - 452
+  label: 常熟姚
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep095_jc_000-d3d7
+    span:
+    - body
+    - 452
+    - 583
+  label: 嘉興沈
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep095_jc_000-d3d8
+    span:
+    - body
+    - 583
+    - 689
+  label: 常熟李
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep095_jc_000-d3d9
+    span:
+    - body
+    - 689
+    - 792
+  label: 南濠薛
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep095_jc_000-d3d10
+    span:
+    - body
+    - 792
+    - 875
+  label: 江陰吳
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep095_jc_000-d3d11
+    span:
+    - body
+    - 875
+    - 1015
+  label: 廟堂巷董
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep095_jc_000-d3d12
+    span:
+    - body
+    - 1015
+    - 1117
+  label: 龐家巷吳
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep095_jc_000-d3d13
+    span:
+    - body
+    - 1117
+    - 1375
+  label: 楓橋陳
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep095_jc_000-d3d14
+    span:
+    - body
+    - 1375
+    - 1414
+  label: 松江方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep095_jc_000-d3d15
+    span:
+    - body
+    - 1414
+    - 1622
+  label: 松江沈
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep095_jc_000-d3d16
+    span:
+    - body
+    - 1622
+    - 1661
+  label: 楓橋張
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep095_jc_000-d3d17
+    span:
+    - body
+    - 1661
+    - 1851
+  label: 嘉善王
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep095_jc_000-d3d18
+    span:
+    - body
+    - 1851
+    - 1943
+  label: 廣東曾
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep095_jc_000-d3d19
+    span:
+    - body
+    - 1943
+    - 2050
+  label: 平湖諸
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep095_jc_000-d3d20
+    span:
+    - body
+    - 2050
+    - 2109
+  label: 丹陽符
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep095_jc_000-d3d21
+    span:
+    - body
+    - 2109
+    - 2196
+  label: 太平橋戴
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep095_jc_000-d3d22
+    span:
+    - body
+    - 2196
+    - 2469
+  label: 關上董
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep095_jc_000-d3d23
+    span:
+    - body
+    - 2469
+    - 2571
+  label: 唯亭顧
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep095_jc_000-d3d24
+    span:
+    - body
+    - 2571
+    - 2662
+  label: 太平橋邵
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep095_jc_000-d3d25
+    span:
+    - body
+    - 2662
+    - 2824
+  label: 山塘畢
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep095_jc_000-d3d26
+    span:
+    - body
+    - 2824
+    - 3089
+  label: 徐州劉
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep095_jc_000-d3d27
+    span:
+    - body
+    - 3089
+    - 3229
+  label: 寶應梁
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep095_jc_000-d3d28
+    span:
+    - body
+    - 3229
+    - 3434
+  label: 上海李
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep095_jc_000-d3d29
+    span:
+    - body
+    - 3434
+    - 3543
+  label: 常熟陳
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep095_jc_000-d3d30
+    span:
+    - body
+    - 3543
+    - 3612
+  label: 浦東張
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep095_jc_000-d3d31
+    span:
+    - body
+    - 3612
+    - 3667
+  label: 松江沈
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep095_jc_000-d3d32
+    span:
+    - body
+    - 3667
+    - 3743
+  label: 陳右
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep095_jc_000-d3d33
+    span:
+    - body
+    - 3743
+    - 3867
+  label: 安徽程
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep095_jc_000-d3d34
+    span:
+    - body
+    - 3867
+    - 3994
+  label: 湖南呂
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep095_jc_000-d3d35
+    span:
+    - body
+    - 3994
+    - 4092
+  label: 楓橋徐
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep095_jc_000-d3d36
+    span:
+    - body
+    - 4092
+    - 4231
+  label: 太倉陸
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep095_jc_000-d3d37
+    span:
+    - body
+    - 4231
+    - 4364
+  label: 廟前洪
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep095_jc_000-d3d38
+    span:
+    - body
+    - 4364
+    - 4472
+  label: 太倉武
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep095_jc_000-d3d39
+    span:
+    - body
+    - 4472
+    - 4585
+  label: 青浦朱
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep095_jc_000-d3d40
+    span:
+    - body
+    - 4585
+    - 4761
+  label: 關上金
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep095_jc_000-d3d41
+    span:
+    - body
+    - 4761
+    - 4949
+  label: 嘉興張
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep095_jc_000-d3d42
+    span:
+    - body
+    - 4949
+    - 5135
+  label: 太倉殷
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep095_jc_000-d3d43
+    span:
+    - body
+    - 5135
+    - 5461
+  label: 三板橋高
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep095_jc_000-d3d44
+    span:
+    - body
+    - 5461
+    - 5571
+  label: 小邾弄馬
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep095_jc_000-d3d45
+    span:
+    - body
+    - 5571
+    - 5605
+  label: 太倉顧
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep095_jc_000-d3d46
+    span:
+    - body
+    - 5605
+    - 6448
+  label: 南濠鄧
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep095_jc_000-d3d47
+    span:
+    - body
+    - 6448
+    - 8058
+  label: 西匯王
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep095_jc_000-d3d48
+    span:
+    - body
+    - 8058
+    - 8146
+  label: 太倉王
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep095_jc_000-d3d49
+    span:
+    - body
+    - 8146
+    - 8242
+  label: 憩橋巷倪
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep095_jc_000-d3d50
+    span:
+    - body
+    - 8242
+    - 8685
+  label: 南翔甘
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep095_jc_000-d3d51
+    span:
+    - body
+    - 8685
+    - 8841
+  label: 唯亭吳
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep095_jc_000-d3d52
+    span:
+    - body
+    - 8841
+    - 9022
+  label: 西街李
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep095_jc_000-d3d53
+    span:
+    - body
+    - 9022
+    - 9164
+  label: 湖州鍾
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep095_jc_000-d3d54
+    span:
+    - body
+    - 9164
+    - 9383
+  label: 憩岩楊
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep095_jc_000-d3d55
+    span:
+    - body
+    - 9383
+    - 10882
+  label: 楓橋徐
+  type: section
+  level: 2
+hash: sha256:2ed4c3a8802d9cd8327c7b9654bf3e26d8cabc57e260fb89768f48b11a003171
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
