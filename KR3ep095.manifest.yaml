@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ep095_000.yaml, hash: 'sha256:fd64458e8e2d52143674e6b866a8d439248e35ad7feb8968eb67545e5f98d616'}
+  - {seq: 0, filename: KR3ep095_000.yaml, hash: 'sha256:fad66376b6bd119d077d05a2f6e9225dafe9b692334c53f6b04be9f8dc2a8c7a'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ep095_000.markers.yaml, hash: 'sha256:d6edcb976cf4753b3de5e3f7170fccd3d84cc2527f771fed7f06d1eb7c08bf5e'}
+  - {seq: 0, role: markers, filename: assets/KR3ep095_000.markers.yaml, hash: 'sha256:3851e6f0383d7013871815279e5a980d2469715241525f49b83b5d759e1ec04c'}
 table_of_contents:
 - ref:
     seq: 0
@@ -541,7 +541,4 @@ table_of_contents:
   label: 楓橋徐
   type: section
   level: 2
-hash: sha256:2ed4c3a8802d9cd8327c7b9654bf3e26d8cabc57e260fb89768f48b11a003171
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:1573c0a5f7c6d396cce12db55d2f45156f0a96a0e095d9c2f87fd8ee005f19d4
