@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ep095/v1
 canonical_location: https://kanripo.org/bkk/KR3ep095/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 延陵弟子紀要
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ep095_000.yaml, hash: 'sha256:fad66376b6bd119d077d05a2f6e9225dafe9b692334c53f6b04be9f8dc2a8c7a'}
+  - {seq: 0, filename: KR3ep095_000.yaml, hash: 'sha256:d19a5f261d8254e4731d3cea71bc03dd72de0e67199b13effd33dc52b47e0055'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ep095_000.markers.yaml, hash: 'sha256:3851e6f0383d7013871815279e5a980d2469715241525f49b83b5d759e1ec04c'}
+  - {seq: 0, role: markers, filename: assets/KR3ep095_000.markers.yaml, hash: 'sha256:c2a811bee129a50090ee32fb9288821bb83e101fc9ea2b5962ff31dbe9e95cb3'}
 table_of_contents:
 - ref:
     seq: 0
@@ -541,4 +541,7 @@ table_of_contents:
   label: 楓橋徐
   type: section
   level: 2
-hash: sha256:1573c0a5f7c6d396cce12db55d2f45156f0a96a0e095d9c2f87fd8ee005f19d4
+hash: sha256:11d67e9224ba227e082c5253792386f8834fa36225ec5808c249710a4c5c8c6a
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
