@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3ep095_000.yaml, hash: 'sha256:d19a5f261d8254e4731d3cea71bc03dd72de0e67199b13effd33dc52b47e0055'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ep095_000.markers.yaml, hash: 'sha256:c2a811bee129a50090ee32fb9288821bb83e101fc9ea2b5962ff31dbe9e95cb3'}
+  - {seq: 0, role: markers, filename: assets/KR3ep095_000.markers.yaml, hash: 'sha256:803f7ab9323d0183008cbdfd3b0be807ed961434b3449349855aad162d2e641e'}
 table_of_contents:
 - ref:
     seq: 0
@@ -541,7 +541,7 @@ table_of_contents:
   label: 楓橋徐
   type: section
   level: 2
-hash: sha256:11d67e9224ba227e082c5253792386f8834fa36225ec5808c249710a4c5c8c6a
+hash: sha256:9e0204b2f87aaa57ea075c2ab0df6e6465cda0d715f518d62ba647afc8621657
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
